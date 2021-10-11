@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Senior Data Scientist, Penn Medicine"
+title: "Anietie Andy / Senior Data Scientist, Penn Medicine"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
