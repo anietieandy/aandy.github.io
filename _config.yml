@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anietie Andy / Senior Data Scientist, Penn Medicine"
+title                    : "Anietie Andy"
 title_separator          : "-"
 name                     : &name "Anietie Andy"
 description              : &description "personal description"
