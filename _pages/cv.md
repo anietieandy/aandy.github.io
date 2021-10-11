@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-#* B.S. in Github, Github University, 2012
-#* M.S. in Jekyll, Github University, 2014
+<!-- * B.S. in Github, Github University, 2012 -->
+<!-- * M.S. in Jekyll, Github University, 2014 -->
 * Ph.D in Howard University, 2016
 
 Work experience
